@@ -1,2 +1,4 @@
-# yanghuizhi.github.io
-博客和简历
+
+
+# [杨会智的博客](yanghuizhi.github.io)
+
