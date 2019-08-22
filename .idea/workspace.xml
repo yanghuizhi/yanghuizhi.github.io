@@ -2,16 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5893c81-f8a9-483e-ab59-38f32185a527" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_浅析API测试.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyResume/js/1.11.3/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyResume/js/1.11.3/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/categories/Test/picture1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/categories/Test/理论_错误推测法.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_黑盒测试理论之「错误推测法」.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/hello-world.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/测试笔记.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/理论_sdsdsdsdsdsd.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/cross-request/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/cross-request/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/css/font.css" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/css/font.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/css2/normalize.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/css2/normalize.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/css2/swiper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/css2/swiper.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/banner001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/banner001.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/banner002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/banner002.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/banner003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/banner003.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/banner004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/banner004.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/campsort.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/campsort.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/font-about.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/font-about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/font-contact.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/font-contact.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/font-porject.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/font-porject.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/icon01.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/icon01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/icon02.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/icon02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/icon03.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/icon03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/icon04.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/icon04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img000.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img001.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img0013.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img0013.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img0013.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img0013.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img002.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img003.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img004.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img005.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img006.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img006.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img007.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img008.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img009.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img009.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img010.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img010.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/img011.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/img011.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/ip.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/ip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/jinman.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/jinman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/kchance.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/kchance.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/lf.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/lf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/lt.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/lt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/map.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/qcored.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/qcored.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/images/zhigege.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/images/zhigege.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/js/1.11.3/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/js/1.11.3/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/js/1.11.3/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/js/1.11.3/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/js/actibess.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/js/actibess.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/js/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/js/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/js/swiper/swiper.jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/js/swiper/swiper.jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/vicdo/1993mm.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/vicdo/1993mm.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/css/images/overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/css/images/overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/js/breakpoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/js/breakpoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/js/browser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/js/browser.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/js/jquery.poptrox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/js/jquery.poptrox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/sass/libs/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/sass/libs/_html-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/sass/libs/_vendor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/assets/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/fulls/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/fulls/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/fulls/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/fulls/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/fulls/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/fulls/03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/fulls/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/fulls/04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/fulls/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/fulls/05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/fulls/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/fulls/06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/thumbs/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/thumbs/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/thumbs/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/thumbs/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/thumbs/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/thumbs/03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/thumbs/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/thumbs/04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/thumbs/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/thumbs/05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/images/thumbs/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/images/thumbs/06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yanghuizhi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/yanghuizhi/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyResume/yindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/yanghuizhi1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/themes/snippet/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/themes/snippet/_config.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,6 +113,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="551">
               <caret line="82" selection-start-line="82" selection-end-line="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yanghuizhi1/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -56,12 +147,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="「测试从业者」经常问的10个问题.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="「测试从业者」经常问的10个问题.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="198">
                 <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanghuizhi1/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="264">
+                <caret line="11" selection-start-line="11" selection-end-line="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -108,14 +211,9 @@
         <entry file="file://$PROJECT_DIR$/blog/themes/snippet/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xxx.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/xxx.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -149,6 +247,8 @@
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_浅析API测试.md" />
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_黑盒测试理论之「错误推测法」.md" />
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md" />
+        <option value="$PROJECT_DIR$/yanghuizhi1/README.md" />
+        <option value="$PROJECT_DIR$/yanghuizhi1/_config.yml" />
       </list>
     </option>
   </component>
@@ -168,7 +268,7 @@
       <path value="$PROJECT_DIR$/blog/themes/snippet/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -246,7 +346,7 @@
             <path>
               <item name="yanghuizhi.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="yanghuizhi.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="MyResume" type="462c0819:PsiDirectoryNode" />
+              <item name="yanghuizhi1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yanghuizhi.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -290,6 +390,7 @@
       <recent name="$PROJECT_DIR$/blog/source/_posts/categories/Test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/yanghuizhi1" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/blog" />
     </key>
@@ -404,7 +505,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="795" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -414,11 +515,11 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3288889" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info anchor="bottom" id="Statistic" order="7" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32760897" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32740742" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -472,15 +573,7 @@
     <entry file="file://$PROJECT_DIR$/MyResume/_config.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyResume/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyResume/yindex.html">
+    <entry file="file://$PROJECT_DIR$/yanghuizhi1/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/snippet/_config.yml">
@@ -502,13 +595,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/xxx.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -550,7 +636,7 @@
     <entry file="file://$PROJECT_DIR$/blog/themes/snippet/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -581,6 +667,30 @@
             <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghuizhi1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="264">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghuizhi1/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
