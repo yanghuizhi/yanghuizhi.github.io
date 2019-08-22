@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f5893c81-f8a9-483e-ab59-38f32185a527" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_浅析API测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/categories/测试理论/理_浅析API测试.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_黑盒测试理论之「错误推测法」.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/categories/测试理论/理_黑盒测试理论之「错误推测法」.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/hello-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/source/_posts/实践_shasshahshshsh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/themes/snippet/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/themes/snippet/_config.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,98 +21,7 @@
     <SUITE FILE_PATH="coverage/yanghuizhi_github_io$lianxi.coverage" NAME="lianxi Coverage Results" MODIFIED="1566377490376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog/source/_posts" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="82" selection-start-line="82" selection-end-line="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="88">
-                <caret line="4" selection-start-line="4" selection-end-line="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="理论_黑盒测试理论之「错误推测法」.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_黑盒测试理论之「错误推测法」.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="88">
-                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="「测试从业者」经常问的10个问题.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="198">
-                <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="实践_shasshahshshsh.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/source/_posts/实践_shasshahshshsh.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="110">
-                <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="理论_浅析API测试.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_浅析API测试.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="88">
-                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hello-world.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/source/_posts/hello-world.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="429">
-                <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/themes/snippet/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -132,7 +47,6 @@
         <option value="$PROJECT_DIR$/blog/source/_posts/lianxi.py" />
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/Test/理论_浅析API测试.md" />
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/Test/理论_黑盒测试理论之「错误推测法」.md" />
-        <option value="$PROJECT_DIR$/blog/themes/snippet/_config.yml" />
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_浅析API测试.md" />
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_黑盒测试理论之「错误推测法」.md" />
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md" />
@@ -140,6 +54,12 @@
         <option value="$PROJECT_DIR$/yanghuizhi1/_config.yml" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/blog/themes/snippet/_config.yml" />
+        <option value="$PROJECT_DIR$/blog/source/_posts/categories/测试实践/实践_空.md" />
+        <option value="$PROJECT_DIR$/blog/source/_posts/categories/Python/暂无.md" />
+        <option value="$PROJECT_DIR$/blog/source/_posts/categories/Tool/暂无.md" />
+        <option value="$PROJECT_DIR$/blog/source/_posts/hello-world.md" />
+        <option value="$PROJECT_DIR$/blog/source/_posts/categories/测试实践/实_空.md" />
       </list>
     </option>
   </component>
@@ -160,8 +80,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="307" />
-    <option name="y" value="43" />
+    <option name="x" value="82" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="795" />
   </component>
@@ -206,6 +126,55 @@
             </path>
             <path>
               <item name="yanghuizhi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanghuizhi.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="categories" type="462c0819:PsiDirectoryNode" />
+              <item name="Tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yanghuizhi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanghuizhi.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="categories" type="462c0819:PsiDirectoryNode" />
+              <item name="杂文" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yanghuizhi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanghuizhi.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="categories" type="462c0819:PsiDirectoryNode" />
+              <item name="测试实践" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yanghuizhi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanghuizhi.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="categories" type="462c0819:PsiDirectoryNode" />
+              <item name="测试理论" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yanghuizhi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanghuizhi.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yanghuizhi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanghuizhi.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="snippet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yanghuizhi.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
@@ -246,9 +215,11 @@
       <recent name="$PROJECT_DIR$/blog/source/_posts/categories/Test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/source/_posts/categories/Python" />
+      <recent name="$PROJECT_DIR$/blog/source/_posts/categories/Tool" />
+      <recent name="$PROJECT_DIR$/blog/source/_posts/categories/测试实践" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/yanghuizhi1" />
-      <recent name="$PROJECT_DIR$/blog" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -361,8 +332,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="307" y="43" width="1440" height="795" extended-state="0" />
-    <editor active="true" />
+    <frame x="82" y="23" width="1440" height="795" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -462,53 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/source/_posts/实践_shasshahshshsh.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/themes/snippet/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_浅析API测试.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_黑盒测试理论之「错误推测法」.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yanghuizhi1/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -533,18 +456,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/blog/source/_posts/实践_shasshahshshsh.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
@@ -553,8 +469,92 @@
     <entry file="file://$PROJECT_DIR$/blog/source/_posts/hello-world.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="429">
-            <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+          <first_editor relative-caret-position="262">
+            <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/Python/暂无.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/Tool/暂无.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/测试理论/理_浅析API测试.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/测试理论/理_黑盒测试理论之「错误推测法」.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="88">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/themes/snippet/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="91" column="12" lean-forward="true" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/测试实践/实_空.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
