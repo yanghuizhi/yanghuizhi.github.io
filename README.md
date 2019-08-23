@@ -18,4 +18,21 @@ hexo clean && hexo g && hexo d
 hexo clean && hexo g
 git add . && git commit -m "update" && git push
 
-``
+```
+
+## 常见问题
+
+#### 1. 需要安装的插件
+```bazaar
+hexo部署deploy命令：
+    npm install hexo-deployer-git --save
+
+搜索功能不能使用，content.json文件找不到？
+    npm i hexo-generator-json-content@2.2.0 -S
+```
+
+#### 2. 谷歌搜索没有响应？
+
+如果使用谷歌搜索没有响应，确定是否已经科学上网
+
+
