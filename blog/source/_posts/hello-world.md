@@ -60,7 +60,7 @@ More info: [Deployment](https://hexo.io/docs/deployment.html)
 
 ### 图片
 奔跑的小汽车: 
-![图片验证](categories/测试/picture1.gif)
+![图片验证](categories/测试理论/picture1.gif)
 
 ### 背景色
 <table><tr><td bgcolor=#7FFFD4>这里的背景色是：Aquamarine，  十六进制颜色值：#7FFFD4， rgb(127, 255, 212)</td></tr></table>
@@ -72,3 +72,5 @@ More info: [Deployment](https://hexo.io/docs/deployment.html)
 <font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
 <font color=#00ffff size=72>color=#00ffff</font>
 <font color=gray size=72>color=gray</font>
+
+>特殊颜色标记
