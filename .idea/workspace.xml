@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5893c81-f8a9-483e-ab59-38f32185a527" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_浅析API测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/categories/测试理论/理论_浅析API测试.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_黑盒测试理论之「错误推测法」.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/categories/测试理论/理论_黑盒测试理论之「错误推测法」.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/hello-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="492">
-                <caret line="21" selection-start-line="21" selection-end-line="21" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="实践_shasshahshshsh.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/source/_posts/实践_shasshahshshsh.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -66,11 +50,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/themes/snippet/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="179">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="「测试从业者」经常问的10个问题.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="198">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -104,7 +100,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="154">
-                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+                <caret line="7" selection-start-line="7" selection-end-line="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -160,7 +156,6 @@
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/Test/理论_黑盒测试理论之「错误推测法」.md" />
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_浅析API测试.md" />
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/测试/理论_黑盒测试理论之「错误推测法」.md" />
-        <option value="$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md" />
         <option value="$PROJECT_DIR$/yanghuizhi1/README.md" />
         <option value="$PROJECT_DIR$/yanghuizhi1/_config.yml" />
         <option value="$PROJECT_DIR$/_config.yml" />
@@ -174,6 +169,7 @@
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/测试实践/实_shasshahshshsh.md" />
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/Python/杂.md" />
         <option value="$PROJECT_DIR$/blog/source/_posts/categories/Tool/杂.md" />
+        <option value="$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md" />
       </list>
     </option>
   </component>
@@ -402,6 +398,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="293" y="50" width="1440" height="795" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -490,16 +487,6 @@
     <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/Python/暂无.md" />
     <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/Tool/暂无.md" />
     <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/测试理论/理_浅析API测试.md" />
-    <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/测试理论/理_黑盒测试理论之「错误推测法」.md" />
     <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/测试实践/实_空.md" />
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -574,7 +561,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="154">
-            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>
@@ -589,8 +576,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/themes/snippet/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="179">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/source/_posts/categories/杂文/「测试从业者」经常问的10个问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
